@@ -1,0 +1,56 @@
+.nav-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav-bar1 {
+  float: left;
+}
+
+.nav-bar1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-bar1 a:hover {
+  background-color: #111;
+}
+
+
+.slike {
+  width: 20%;
+  }
+
+
+.slike1 {
+  width: 31%;
+  }
+
+.slike2 {
+  width: 15%;
+  }
+
+.slike3 {
+  width: 20%;
+  }
+
+.slike4 {
+  width: 50%;
+  }
+.slike5 {
+  width: 40%;
+  }
+
+p {
+   font-size: 16px;
+   line-height: 18px;
+   width: 600px;
+   background-color: lightblue;
+   padding: 20px;
+}
